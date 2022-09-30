@@ -1,0 +1,35 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  font-size: 4.4rem;
+}
+
+.search-form {
+  display: inline;
+}
+
+.movie-card {
+  max-width: 1000px;
+  box-shadow: 1px 1px 5px gray;
+}
+
+.movie-image {
+  height: 285px;
+  width: 185px;
+  background-color: red;
+  margin-bottom: 2rem;
+  margin: 0 auto;
+}
+
+.movie-title{
+  font-size: 2rem;
+  margin-bottom:  1rem;
+}
+
+.movie-subtext {
+  margin-bottom: 1rem;
+}
